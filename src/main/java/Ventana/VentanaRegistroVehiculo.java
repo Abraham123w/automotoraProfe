@@ -7,7 +7,7 @@ import Model.MarcaVehiculo;
 import javax.swing.*;
 import javax.swing.text.InternationalFormatter;
 import java.awt.event.ActionEvent;
-
+////casa
 public class VentanaRegistroVehiculo extends Ventana {
     private JLabel textoEncabezado, textoMarcaVehiculo, textoNombre, textoColorVehiculo, textoAñoVehiculo, textoPrecioVehiculo, textoKmRecorridos;
     private JTextField campoRut, campoNombre, campoDireccion, campoNumeroTelefonico, campoCorreo;

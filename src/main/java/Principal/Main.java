@@ -9,5 +9,6 @@ public class Main {
         Automotora automotora= new Automotora();
         automotora= AutomotoraController.cargaMasivaDatos(automotora);
         VentanaMenuBienvenida ventana= new VentanaMenuBienvenida(automotora);
+        System.out.println("jejejejjejjeje");
     }
 }
